@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.635081mm"
+   height="12.635082mm"
+   viewBox="0 0 12.635081 12.635082"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="currency compass logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1951737"
+     inkscape:cx="-922.25047"
+     inkscape:cy="1583.246"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(235.60721,-416.32036)">
+    <g
+       id="g75">
+      <circle
+         style="fill:none;stroke:#2f6f29;stroke-width:1.37768;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle73"
+         cx="-229.28967"
+         cy="422.63791"
+         r="5.6287007" />
+      <path
+         id="path73"
+         style="fill:#2f6f29;fill-opacity:1;stroke-width:0.375875;paint-order:markers fill stroke"
+         d="m -226.60386,418.69476 -3.5511,3.07347 -1.70455,4.58708 3.55113,-3.07351 z m -2.62783,3.161 a 0.66927071,0.66927076 34.65824 0 1 0.66929,0.66926 0.66927071,0.66927076 34.65824 0 1 -0.66929,0.66929 0.66927071,0.66927076 34.65824 0 1 -0.66925,-0.66929 0.66927071,0.66927076 34.65824 0 1 0.66925,-0.66926 z" />
+    </g>
+  </g>
+</svg>
