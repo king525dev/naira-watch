@@ -1,6 +1,16 @@
 const board = document.getElementById("layout");
 const headUsdRate = document.getElementById("usRate");
 const boardTitle = document.getElementById("brd-title");
+const loader = document.getElementById("loader");
+
+function testWebsite(){
+     const deter = board.getAttribute("load");
+     if(deter == "true"){
+          loader.style.display = "none";
+     }else{
+          loader.style.display = "flex";
+     }
+}
 
 function formatDate(){
      const dater = new Date();
@@ -69,7 +79,11 @@ function main(){
           })
           .then(() => {
                boardTitle.innerText = `Exchange Rate of Nigerian Naira as of ${formatDate()}`
+          })
+          .then(() => {
+               board.setAttribute("load", "true")
           });
 }
 
+setInterval(testWebsite, 1000);
 main();

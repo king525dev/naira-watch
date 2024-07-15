@@ -41,6 +41,38 @@ body {
      background-color: var(--colour4);
 }
 
+/* LOADER */
+
+div.load{
+     height: 100vh;
+     width: 100%;
+     background-color: var(--colour3);
+     color: var(--colour6);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: fixed;
+}
+
+img.loader{
+     transition: all 0.3s ease;
+     animation: fade-in-out 2s linear infinite;
+}
+
+@keyframes fade-in-out {
+     0%{
+          opacity: 1;
+     }
+
+     50%{
+          opacity: 0;
+     }
+
+     100%{
+          opacity: 1;
+     }
+}
+
 /* HEADER */
 
 div.f-page {
