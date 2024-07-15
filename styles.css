@@ -213,6 +213,9 @@ article.layout{
 
 div.brd-item{
      width: 1fr;
+     display: flex;
+     justify-content: center;
+     align-items: center;
      font-family: "Open-sans", sans-serif;
      background-color: var(--colour1);
      transition: 0.3s all ease;
@@ -289,4 +292,29 @@ footer span.logo img {
 
 small {
      font-size: 0.5rem;
+}
+
+/*Tablet Version*/
+@media (max-width: 992px) and (min-width: 800px) {
+     article.call-1 p{
+          font-size: 60%;
+     }
+}
+
+/*Phone Version*/
+@media (max-width: 800px) {
+     section.call{
+          display: none;
+     }
+}
+
+@media (max-width: 500px){
+     :root{
+          font-size: 12px;
+     }
+
+     body {
+          width: 100%
+     }
+
 }
